@@ -4,3 +4,4 @@ Pillow
 opencv-python
 googletrans==4.0.0-rc1
 pyinstaller
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
