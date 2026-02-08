@@ -4,3 +4,4 @@ Pillow
 opencv-python
 googletrans==4.0.0-rc1
 pyinstaller
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
